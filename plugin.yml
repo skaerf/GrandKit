@@ -1,0 +1,52 @@
+name: GrandKitCORE
+version: 1.0
+main: dev.FreakyPear5.WorldCompass.Main
+description: GrandKitCORE Commands and Services
+
+commands:
+    freakyevent:
+        aliases: [e, fev]
+        description: Events command for GrandKitCORE
+        usage: /<command>
+        
+    broadcast:
+        aliases: [bc, broadc, bcast, fbc, freakybc]
+        description: Broadcast command for GrandKitCORE
+        usage: /<command>
+       
+    grant:
+        aliases: [gr, gt]
+        description: Grant command for GrandKitCORE
+        usage: /<command>
+    
+    sayall:
+        aliases: [sa]
+        description: SayAll command for GrandKitCORE
+        usage: /<command>
+        
+    hub:
+        description: Hub command for GrandKitCORE
+        usage: /<command>
+        
+    vote:
+        description: Vote command for GrandKitCORE
+        usage: /<command>
+        
+    social:
+        description: Social command for GrandKitCORE
+        usage: /<command>
+        
+    playerhelp:
+        aliases: [ph, help, playerh, phelp]
+        description: PlayerHelp command for GrandKitCORE
+        usage: /<command>
+        
+    duel:
+        aliases: [duels, 1v1]
+        description: Duels command for GrandKitCORE
+        usage: /<command>
+    
+    #spawn:
+       #aliases: [sp, spn]
+       # description: Spawn command for GrandKitCORE
+       # usage: /<command>

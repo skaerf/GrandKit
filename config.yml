@@ -1,0 +1,16 @@
+# Welcome to GrandKit CORE Config File
+# If you need help with any of this, please feel free to contact FreakyPear5 through Discord using skaerf#6400.
+# GrandKit CORE plugin and all code is copyright to FreakyPear5 and TRC Inc. Any and all action shall be taken if needed.
+# Copyright 2020 TRC FreakyPear5©
+
+# START OF CONFIG FILE
+
+# Here you can configure whether you want the Join title to be displayed or not on join.
+# Please either type 'true' or 'false'. More options for configuration will be added in the future.
+# The default setting is 'true'.
+JoinTitle: true
+
+# This is where you can decide to turn per world chat on or off.
+# The default is true.
+# If you wish to turn it off, please change it to false.
+PerWorldChat: true
